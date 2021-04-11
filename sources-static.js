@@ -1,37 +1,21 @@
 const static = [
-  
+
   // Resources
-  
+
   {
-    "title": "Jamstack Handbook",
-    "link": "https://jamstackhandbook.com/",
+    "title": "Off with Your Head",
+    "link": "https://learnetto.com/users/dolearning/courses/off-with-your-head",
     "source": {
       "title": "Colby Fayock",
       "link": "https://www.colbyfayock.com/"
     }
   },
-  {
-    "title": "50 Projects for React & the Static Web",
-    "link": "https://50reactprojects.com/",
-    "source": {
-      "title": "Colby Fayock",
-      "link": "https://www.colbyfayock.com/"
-    }
-  },
-  {
-    "title": "Journey to Dev",
-    "link": "https://journeyto.dev/",
-    "source": {
-      "title": "Colby Fayock",
-      "link": "https://www.colbyfayock.com/"
-    }
-  },
-  
+
   // egghead.io Courses
-  
+
   {
-    "title": "Create a New Github Action to Automate Code Tasks with Javascript",
-    "link": "https://egghead.io/playlists/create-a-new-github-action-to-automate-code-tasks-with-javascript-f1e9?af=atzgap",
+    "title": "WordPress as a Headless Content Management System (CMS) and GraphQL API",
+    "link": "https://egghead.io/playlists/headless-wordpress-4a14",
     "source": {
       "title": "egghead.io",
       "link": "https://egghead.io/instructors/colby-fayock?af=atzgap"
@@ -69,33 +53,18 @@ const static = [
       "link": "https://egghead.io/instructors/colby-fayock?af=atzgap"
     }
   },
-  
+
   // External Articles
-  
-  {
-    "title": "New to Jamstack? Everything You Need to Know to Get Started",
-    "link": "https://snipcart.com/blog/jamstack",
-    "source": {
-      "title": "Snipcart",
-      "link": "https://snipcart.com/blog?author=7049"
-    }
-  },
-  {
-    "title": "E-Commerce for React Developers [w/ Next.js Shop Tutorial]",
-    "link": "https://snipcart.com/blog/react-ecommerce-tutorial",
-    "source": {
-      "title": "Snipcart",
-      "link": "https://snipcart.com/blog?author=7049"
-    }
-  },
-  {
-    "title": "Build a Content Management System for an E-commerce Store with Next.js and Sanity",
-    "link": "https://egghead.io/learn/ecommerce/build-a-content-management-system-for-an-e-commerce-store-with-nextjs-and-sanity?af=atzgap",
-    "source": {
-      "title": "egghead.io",
-      "link": "https://egghead.io/instructors/colby-fayock?af=atzgap"
-    }
-  }
+
+  // {
+  //   "title": "New to Jamstack? Everything You Need to Know to Get Started",
+  //   "link": "https://snipcart.com/blog/jamstack",
+  //   "source": {
+  //     "title": "Snipcart",
+  //     "link": "https://snipcart.com/blog?author=7049"
+  //   }
+  // },
+
 ]
 
 module.exports = static;
